@@ -3,12 +3,11 @@
 **A community project for everything that makes Akai MPC hardware do more.**
 
 Open MPC brings together the information, work and development that extend the MPC experience: plugins, controller
-support, OS tweaks and addins, tools, and the research behind them. It covers the MPC Live, One, X, Key and Force,
-and it is open to anyone.
+support, OS tweaks and addins, tools, and the research behind them. It covers the MPC Gen1 and Gen2 Standalone devices as well as the MPC Sample series.
 
 MPCs are made for music, and so is most of what's here. But an MPC is also a Linux computer with pads, knobs and a
 touchscreen, which makes it something you can build on. Whether you want to make beats, design a synth, reverse-engineer
-a protocol or draw a skin, there's room for it here.
+a protocol or draw a skin, there's room for all kinds of creativity here.
 
 [**Discord**](https://discord.gg/sRRysZSgu3) · [**Plugin catalog**](https://open-mpc.github.io/) · [Install the Plugin Manager](https://open-mpc.github.io/install.html) · [Build guide](https://open-mpc.github.io/build.html)
 
